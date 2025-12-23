@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+CNN_env/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
